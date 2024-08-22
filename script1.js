@@ -1,3 +1,4 @@
+// hello
 var tabs = document.querySelectorAll(".lboard_tabs ul li");
 var Previous = document.querySelector(".Previous");
 var Current = document.querySelector(".Current");
