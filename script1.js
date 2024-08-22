@@ -2,7 +2,7 @@ var tabs = document.querySelectorAll(".lboard_tabs ul li");
 var Previous = document.querySelector(".Previous");
 var Current = document.querySelector(".Current");
 var UpComing = document.querySelector(".UpComing");
-var UpComing = document.querySelectorAll(".lboard_item");
+var items = document.querySelectorAll(".lboard_item");
 
 tabs.forEach(function(tab){
     tab.addEventListener("click",function(){
