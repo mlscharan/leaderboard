@@ -21,6 +21,7 @@ tabs.forEach(function(tab){
 
         if(currentdatali == "Previous"){
             Previous.style.display = "block";
+            alert("<-Winner: M.L.S->");
         }
         else if(currentdatali == "Current"){
             Current.style.display = "block";
